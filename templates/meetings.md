@@ -6,4 +6,4 @@ tags:
 - **About:**
 - **Participants:**
 - **Key desicions:**
-	- [ ] ...
+- [x] Hola
